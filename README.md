@@ -1,5 +1,5 @@
 # VerificadorIntegridade
-Este é o primeiro protótipo da ferramenta criada pela Divisão de instrumentação, software e condições ambientais (DINST) da Diretoria de Metrologia Legal do INMETRO.
+Este é o primeiro protótipo da ferramenta de verificação de integridade criada pela Divisão de instrumentação, software e condições ambientais (DINST) da Diretoria de Metrologia Legal do INMETRO.
 
 O protocólo de verificação está descrito nos seguintes documentos:
 -Portaria nº 393, de 2012. Aprova o Regulamento Técnico Metrológico estabelecendo as condições técnicas e metrológicas a que devem atender os mototaxímetros. Disponível em: http://www.inmetro.gov.br. 
